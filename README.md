@@ -87,16 +87,6 @@ Before trusting the analysis above, the flight–weather match itself was valida
 ## Dashboard
 
 The Power BI dashboard is organized into five pages:
-# Dashboard Preview
-
-## Project Overview
-
-
-## Wind Analysis
-
-
-## Visibility Analysis
-
 
 1. **Project Overview** — problem statement, objectives, and pipeline summary  ![Project Overview](Images/project-overview.png)
 2. **Global Flight Traffic** — world map of flight positions, ground status, top countries by volume  ![Global_Flight](Images/global_flight.png)
