@@ -1,5 +1,4 @@
 # Flight-Weather-Analytics-Dashboard
-# Flight Weather Intelligence Dashboard
 
 **Does weather actually change how planes fly — or is it just assumption?**
 
