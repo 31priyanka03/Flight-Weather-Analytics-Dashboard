@@ -88,9 +88,9 @@ Before trusting the analysis above, the flight–weather match itself was valida
 
 The Power BI dashboard is organized into five pages:
 
-1. **Project Overview** — problem statement, objectives, and pipeline summary  ![Project Overview](Images/project-overview.png)
-2. **Global Flight Traffic** — world map of flight positions, ground status, top countries by volume  ![Global_Flight](Images/global_flight.png)
-3. **Wind Analysis** — ground speed by wind direction and intensity, plus data-quality validation table  ![Wind Analysis](wind-analysis.png)
-4. **Visibility Analysis** — speed and flight volume by visibility category, including a low-altitude subset comparison  ![Visibility Analysis](Images/visibility-analysis.png)
-5. **Key Findings & Conclusion** — summary of results and closing insights  ![Key Findings](Images/key_findings.png)
+1. **Project Overview** — problem statement, objectives, and pipeline summary  ![Project Overview](Images/Project_Overview.png)
+2. **Global Flight Traffic** — world map of flight positions, ground status, top countries by volume  ![Global_Flight](Images/Global_Flight.png)
+3. **Wind Analysis** — ground speed by wind direction and intensity, plus data-quality validation table  ![Wind Analysis](Wind_Analysis.png)
+4. **Visibility Analysis** — speed and flight volume by visibility category, including a low-altitude subset comparison  ![Visibility Analysis](Images/Visibility_Analysis.png)
+5. **Key Findings & Conclusion** — summary of results and closing insights  ![Key Findings](Images/Key_Insight.png)
 
